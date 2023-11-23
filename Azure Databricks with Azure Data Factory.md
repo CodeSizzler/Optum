@@ -56,7 +56,7 @@ You can create notebooks in your Azure Databricks workspace to run code written 
     >**Tip**: As you use the Databricks Workspace portal, various tips and notifications may be displayed. Dismiss these and follow the instructions provided to complete the tasks in this exercise.
 
 1. In the sidebar on the left, select **Workspace**. Then select the **&#8962; Home** folder.
-1. At the top of the page, in the **&#8942;** menu next to your user name, select **Import**. Then in the **Import** dialog box, select **URL** and import the notebook which you downloaded from OneDrive.
+1. At the top of the page, in the **&#8942;** menu next to your user name, select **Import**. Then in the **Import** dialog box, select **File** and import the notebook which you downloaded from OneDrive.
 1. Review the contents of the notebook, which include some Python code cells to:
     - Retrieve a parameter named **folder** if it is has been passed (otherwise use a default value of *data*).
     - Download data from GitHub and save it in the specified folder in the Databricks File System (DBFS).
