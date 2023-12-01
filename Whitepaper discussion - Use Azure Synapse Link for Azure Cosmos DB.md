@@ -80,7 +80,6 @@ Before you can use Synapse Link for Azure Cosmos DB, you must enable it in your 
 
 2. After the container has been created, in the **Data Explorer** page, expand the **AdventureWorks** database and its **Sales** folder; and then select the **Items** folder.
 
-    ![The Adventure Works, Sales, Items folder in Data Explorer](./images/cosmos-items-folder.png)
 
 3. Use the **New Item** button to create a new customer item based on the following JSON. Then save the new item (some additional metadata fields will be added when you save the item).
 
