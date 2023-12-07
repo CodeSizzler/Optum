@@ -4,7 +4,7 @@ lab:
     az204Module: 'Learning Path 11: Troubleshoot solutions by using Application Insights'
 ---
 
-# Lab 11: Monitor services that are deployed to Azure
+# Lab: Monitor services that are deployed to Azure
 
 ## Microsoft Azure user interface
 
@@ -64,9 +64,9 @@ In this lab, you will create an Application Insights resource in Azure that will
 
 ### Task 3: Create an Azure Web API resource
 
-1. In the Azure portal, use the **Search resources, services, and docs** text box at the top of the page to search for **App Services** and then, in the list of results, select **App Services**.
+1. In the Azure portal, use the **Search resources, services, and docs** text box at the top of the page to search for **App Service** and then, in the list of results, select **App Service**.
 
-1. On the **App Services** blade, select **+ Create**.
+1. On the **App Service** blade, select **+ Create**.
     
 1. On the **Create Web App** blade, on the **Basics** tab, perform the following actions, and then select the **Monitoring** tab:
 
