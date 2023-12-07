@@ -150,6 +150,8 @@ In this exercise, you created the Azure resources that you'll use for the remain
 
 #### Task 1: Build a .NET Web API project
 
+##### Note - Download the solution file from OneDrive
+
 1. From the lab computer, start **Visual Studio Code**.
 
 1. In Visual Studio Code, on the **File** menu, select **Open Folder**.
